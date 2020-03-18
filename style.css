@@ -1,0 +1,10 @@
+.correct{
+  background:lime;
+}
+
+.incorrect{
+  background:red;
+}
+body{
+  background:gray;
+}
